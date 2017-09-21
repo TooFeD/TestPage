@@ -1,0 +1,32 @@
+#header {
+    overflow: hidden;
+    height: 100vh;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+main {
+    font-family: 'Indie Flower', cursive;
+    display: table-cell;
+    vertical-align: middle;
+    padding: 5%;
+}
+
+.list {
+    margin-left: 5%;
+}
+
+footer {
+    font-family: 'Indie Flower', cursive;
+    color: white;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+}
+
+#send {
+    margin-top: 1%;
+}
